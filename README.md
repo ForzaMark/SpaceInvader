@@ -16,3 +16,6 @@ Schritte um das Spiel zu starten :
     + bei mir konnte das mit dem Befehl `cd C:\Program Files\LOVE`
   + hier den Befehl `love.exe <Ordnerpfad des Repositorys`
     + Beispiel : `love.exe C:\Users\<Username>\Documents\new.love`
+    
+    
+Oder man führt die spaceInvader.exe-Datei aus den Releases aus.
